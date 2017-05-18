@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## What speakers need
 
-You can use the [editor on GitHub](https://github.com/ewebber/whatspeakersneed/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Collected from experienced speakers to help conference organisers make things better
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Can speakers use their own laptop?
+Many speakers prefer to use their own kit because it is set up for them
 
-### Markdown
+Let speakers know if there is a microphone (this may affect what the speakers wear).
+If so
+- is it handheld, they may need some guidance on how to hold it
+- is it a lapel mic and battery pack, they will need a belt or a pocket for the pack
+- something else?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Are you filming them?
 
-```markdown
-Syntax highlighted code block
+- is there a release form?
+- does it have details of what will be done with the footage?
 
-# Header 1
-## Header 2
-### Header 3
+What format can the slides be in? 
 
-- Bulleted
-- List
+What projector connectors will the conference provide?
 
-1. Numbered
-2. List
+What power cables will the conference provide?
 
-**Bold** and _Italic_ and `Code` text
+Is it on a stage?
 
-[Link](url) and ![Image](src)
-```
+What layout is the room?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ewebber/whatspeakersneed/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
