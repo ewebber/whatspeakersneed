@@ -9,14 +9,14 @@ Collected from experienced speakers to help conference organisers make things be
 - What projector connectors will the conference provide? (HDMI, VGA)
 - What power cables will the conference provide?
 
-### Will they need to use a microphone?**
+### Will they need to use a microphone?
 
 *this might affect what people can wear*
 
 If so
 
-- is it handheld, they may need some guidance on how to hold it
-- is it a lapel mic and battery pack, they will need a belt or a pocket for the pack
+- is it handheld? They may need some guidance on how to hold it
+- is it a lapel mic and battery pack? They will need a belt or a pocket for the pack
 - something else?
 
 ### Are you filming the talks
