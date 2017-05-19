@@ -1,6 +1,16 @@
 # What speakers need
 
-Collected from experienced speakers to help conference organisers make things better, please feel free to submit edits.
+Collected from experienced speakers to help conference organisers make things better and speakers more comfortable.
+Please feel free to submit edits.
+
+## Before applying
+
+### What is the offer?
+
+- Do you cover expenses and how much?
+- Will you book travel and hotels?
+- Do you pay speakers?
+- Will there be a speakers dinner?
 
 ## Preparing for the talks
 
@@ -11,7 +21,7 @@ Collected from experienced speakers to help conference organisers make things be
 - What projector connectors will the conference provide? (HDMI, VGA)
 - What power cables will the conference provide?
 
-### Will they need to use a microphone?
+### Will speakers need to use a microphone?
 
 *this might affect what people can wear*
 
@@ -33,6 +43,10 @@ If so:
 
 ### Is there the option to have sound?
 
+## Will speakers be introduced or introduce themselves?
+
+## Is there any other equipment provided? (e.g. flipcharts, post-it notes, pens)
+
 ## At the venue
 
 ### What food will be provided?
@@ -46,7 +60,7 @@ If so:
 
 ### Is there a quiet space to work?
 
-## Accomadation info
+## Accommodation info
 
 ### Where is the hotel and venue?
 
