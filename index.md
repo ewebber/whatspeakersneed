@@ -43,7 +43,10 @@ If so:
 
 ### Is there the option to have sound?
 
-## Will speakers be introduced or introduce themselves?
+### Will speakers be introduced or introduce themselves?
+
+- Do you need any information in order to introduce them
+- Will someone be in the room, or should they just start
 
 ### Is there any other equipment provided? (e.g. flipcharts, post-it notes, pens)
 
