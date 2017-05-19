@@ -45,7 +45,7 @@ If so:
 
 ## Will speakers be introduced or introduce themselves?
 
-## Is there any other equipment provided? (e.g. flipcharts, post-it notes, pens)
+# Is there any other equipment provided? (e.g. flipcharts, post-it notes, pens)
 
 ## At the venue
 
