@@ -10,7 +10,8 @@ Please feel free to submit edits.
 - Do you cover expenses and how much?
 - Will you book travel and hotels?
 - Do you pay speakers?
-- Will there be a speakers dinner?
+- Will there be a speakers dinner? (speakers often come to events to network, so this is a good idea)
+- Will there be childcare?
 
 ## Preparing for the talks
 
@@ -61,7 +62,11 @@ If so:
 
 - What is the wifi code?
 
-### Is there a quiet space to work?
+###  Are there any quiet spaces?
+
+- Is there a space to work in / prepare for talks?
+- Is there a prayer room?
+- Anything else?
 
 ## Accommodation info
 
