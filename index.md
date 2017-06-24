@@ -1,7 +1,7 @@
 # What speakers need
 
 Collected from experienced speakers to help conference organisers make things better and speakers more comfortable.
-Please feel free to submit edits.
+This is an early draft, please feel free to submit edits or additions.
 
 ## Before applying
 
@@ -10,8 +10,9 @@ Please feel free to submit edits.
 - Do you cover expenses and how much?
 - Will you book travel and hotels?
 - Do you pay speakers?
-- Will there be a speakers dinner? (speakers often come to events to network, so this is a good idea)
+- Will there be a speakers dinner or socialising events? (speakers often come to events to network, so this is a good idea)
 - Will there be childcare?
+- What else are you offering speakers?
 
 ## Preparing for the talks
 
@@ -34,13 +35,13 @@ If so:
 ### Are you filming the talks
 
 If so:
-- is there a release form?
+- have you sent (and have they signed) a release form?
 - does it have details of what will be done with the footage?
 
 ### What format can the slides be in?
 
-- will they be restricted by the projectors?
-- will there be a screen and what will they see on it? (some speakers want to see the next slide and their notes)
+- Will they be restricted by the projectors?
+- Will there be a screen and what will they see on it? (some speakers want to see the next slide and their notes)
 
 ### Is there the option to have sound?
 
@@ -64,9 +65,9 @@ If so:
 
 ###  Are there any quiet spaces?
 
-- Is there a space to work in / prepare for talks?
+- Is there a space to work in / prepare for talks? (if yes, where is it?)
 - Is there a prayer room?
-- Anything else?
+- What else is available?
 
 ## Accommodation info
 
