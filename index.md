@@ -1,7 +1,7 @@
 # What speakers need from conference organisers
 
-Collected from experienced speakers to help conference organisers make things easier for speakers, many who don't get paid for their contribution to conferences. This list is intended for speakers to give to organisers or for organisers to use as a guide. 
-This is an early draft, please feel free to submit edits or additions.
+Collected from experienced speakers to help conference organisers make things easier for speakers (many who don't get paid for their contribution to conferences) which makes the conferences run more smoothly. This list is intended for speakers to give to organisers or for organisers to use as a guide. 
+This is an early draft, GitHub allows for collaboration and contruibution so please feel free to submit edits or additions into the document.
 
 ## Before applying
 
@@ -93,5 +93,7 @@ If so:
 - Are you providing a car to pick people up?
 - What is the easiest route to the venue?
 - Are there any prefferred cab firms?
+
+---
 
 Please also see the Diversity charter considerations for event organisers http://diversitycharter.org/considerations-for-event-organisers/ 
