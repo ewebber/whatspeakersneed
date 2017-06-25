@@ -18,7 +18,7 @@ This is an early draft, please feel free to submit edits or additions.
 
 ### Can speakers use their own laptop?
 
-*Many speakers prefer to use their own kit because it is set up in the way they like*
+*Many speakers prefer to use their own kit because it is set up in the way they like and many edit slides up to the last moment*
 
 - What projector connectors will the conference provide? (HDMI, VGA)
 - What power cables will the conference provide?
