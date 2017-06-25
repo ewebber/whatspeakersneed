@@ -16,6 +16,11 @@ This is an early draft, please feel free to submit edits or additions.
 
 ## Preparing for the talks
 
+### What information can you tell people about the audience?
+
+- What sectors do they work in?
+- What is their experience in the topics that the speaker is covering?
+
 ### Can speakers use their own laptop?
 
 *Many speakers prefer to use their own kit because it is set up in the way they like and many edit slides up to the last moment*
