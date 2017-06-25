@@ -92,7 +92,7 @@ If so:
 - How can they get there from airports / train stations?
 - Are you providing a car to pick people up?
 - What is the easiest route to the venue?
-- Are there any prefferred cab firms?
+- Are there any preferred cab firms?
 
 ---
 
