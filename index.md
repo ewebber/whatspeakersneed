@@ -1,6 +1,6 @@
 # What speakers need
 
-Collected from experienced speakers to help conference organisers make things better and speakers more comfortable.
+Collected from experienced speakers to help conference organisers make things easier for speakers, many who don't get paid for their contribution to conferences. This list is intended for speakers to give to organisers or for organisers to use as a guide. 
 This is an early draft, please feel free to submit edits or additions.
 
 ## Before applying
@@ -40,8 +40,8 @@ If so:
 
 ### What format can the slides be in?
 
-- Will they be restricted by the projectors?
-- Will there be a screen and what will they see on it? (some speakers want to see the next slide and their notes)
+- Will slide size or dimensions be restricted by the projectors? (please give plenty of notice before speakers make their slides) 
+- Will there be an additional screen that only speakers can see and what will they see on it? (some speakers want to see the next slide and their notes)
 
 ### Is there the option to have sound?
 
@@ -52,7 +52,18 @@ If so:
 
 ### Is there any other equipment provided? (e.g. flipcharts, post-it notes, pens)
 
+### How is the room set up?
+
+- How will the chairs be laid out?
+- How big is the room / How big might the audience be?
+- What time are the speakers on? (a post lunch talk might need a bit of extra interaction)
+
 ## At the venue
+
+### Getting set up
+
+- What room is the speaker in and how do they find it?
+- What is the line up of the conference?
 
 ### What food will be provided?
 
@@ -77,3 +88,5 @@ If so:
 - Are you providing a car to pick people up?
 - What is the easiest route to the venue?
 - Are there any prefferred cab firms?
+
+Please also see the Diversity charter considerations for event organisers http://diversitycharter.org/considerations-for-event-organisers/ 
