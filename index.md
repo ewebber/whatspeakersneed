@@ -16,6 +16,10 @@ This is an early draft, GitHub allows for collaboration and contruibution so ple
 
 ## Preparing for the talks
 
+### What information can you tell speakers about the conference USP?
+
+- What is unique about this conference? What's vision? What sets it apart from other existing conferences? 
+
 ### What information can you tell people about the audience?
 
 - What sectors do they work in?
@@ -27,6 +31,8 @@ This is an early draft, GitHub allows for collaboration and contruibution so ple
 
 - What projector connectors will the conference provide? (HDMI, VGA)
 - What power cables will the conference provide?
+- Will a remote slide changer be provided?
+- Should video be embedded in the presentation or provided as a separate file?
 
 ### Will speakers need to use a microphone?
 
@@ -42,6 +48,7 @@ If so:
 If so:
 - have you sent (and have they signed) a release form?
 - does it have details of what will be done with the footage?
+- can speakers walk around the stage, will the camera follow the speaker, or is it fixed at the podium?
 
 ### What format can the slides be in?
 
@@ -49,6 +56,8 @@ If so:
 - Will there be an additional screen that only speakers can see and what will they see on it? (some speakers want to see the next slide and their notes)
 
 ### Is there the option to have sound?
+
+- Will audio out be supported via 3mm headphone socket or HDMI or either?
 
 ### Will speakers be introduced or introduce themselves?
 
@@ -62,6 +71,13 @@ If so:
 - How will the chairs be laid out?
 - How big is the room / How big might the audience be?
 - What time are the speakers on? (a post lunch talk might need a bit of extra interaction)
+
+### How will timekeeping be done?
+
+ - Will there be a timer on the stage?
+ - Will there be someone holding up signs with 10, 5, 3, 2, 1 minutes to go?
+ - Will there be lights indicating time to get off the stage?
+ - Will there be no timing support and it's up to the speaker to keep an eye on the time?
 
 ## At the venue
 
