@@ -1,4 +1,4 @@
-# What speakers need
+# What speakers need from conference organisers
 
 Collected from experienced speakers to help conference organisers make things easier for speakers, many who don't get paid for their contribution to conferences. This list is intended for speakers to give to organisers or for organisers to use as a guide. 
 This is an early draft, please feel free to submit edits or additions.
