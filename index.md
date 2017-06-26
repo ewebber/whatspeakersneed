@@ -115,6 +115,13 @@ If so:
 - Are you providing a car to pick people up?
 - What is the easiest route to the venue?
 - Are there any preferred cab firms?
+
+### Will there be transfer from the airport to the hotel and back?
+
+- Is someone from the organisers at the airport to welcome speakers?
+- Are taxis or public transport reimbursed or already organised or neither?
+- How long is the journey from the airport gonna be and what does it cost?
+
 ---
 
 Please also see the Diversity charter considerations for event organisers to create better diversity at conferences http://diversitycharter.org/considerations-for-event-organisers/ 
