@@ -63,6 +63,11 @@ If so:
 - How big is the room / How big might the audience be?
 - What time are the speakers on? (a post lunch talk might need a bit of extra interaction)
 
+### Will the organisers be collecting feedback?
+
+- How will feedback be collected?
+- How will it be shared with speakers?
+
 ## At the venue
 
 ### Getting set up
@@ -72,7 +77,7 @@ If so:
 
 ### What food will be provided?
 
-- Does food meet dietry requirements?
+- Does food meet dietry requirements and have you asked speaker for their requirements?
 - Where can speakers get (good) coffee nearby?
 
 ### Is there wifi? 
@@ -82,18 +87,19 @@ If so:
 ###  Are there any quiet spaces?
 
 - Is there a space to work in / prepare for talks? (if yes, where is it?)
-- Is there a prayer room?
+- Is there a prayer room or other space where people can be alone?
 - What else is available?
 
 ## Accommodation info
 
 ### Where is the hotel and venue?
 
-- How can they get there from airports / train stations?
+- How can they get to the hotel from airports / train stations?
 - Are you providing a car to pick people up?
 - What is the easiest route to the venue?
 - Are there any preferred cab firms?
-
 ---
 
-Please also see the Diversity charter considerations for event organisers http://diversitycharter.org/considerations-for-event-organisers/ 
+Please also see the Diversity charter considerations for event organisers to create better diversity at conferences http://diversitycharter.org/considerations-for-event-organisers/ 
+
+This list was initiated by [Emily Webber](https://twitter.com/ewebber)
