@@ -13,6 +13,8 @@ This is an early draft, GitHub allows for collaboration and contruibution so ple
 - Will there be a speakers dinner or socialising events? (speakers often come to events to network, so this is a good idea)
 - Will there be childcare?
 - What else are you offering speakers?
+- Who else will be speaking?
+- Who are the sponsors?
 
 ## Preparing for the talks
 
