@@ -96,4 +96,6 @@ If so:
 
 ---
 
-Please also see the Diversity charter considerations for event organisers http://diversitycharter.org/considerations-for-event-organisers/ 
+Please also see the Diversity charter considerations for event organisers to create better diversity at conferences http://diversitycharter.org/considerations-for-event-organisers/ 
+
+This list was initiated by [Emily Webber](https://twitter.com/ewebber)
