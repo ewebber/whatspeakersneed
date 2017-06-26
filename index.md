@@ -96,9 +96,8 @@ If so:
 
 - How can they get to the hotel from airports / train stations?
 - Are you providing a car to pick people up?
-- What is the easiest route to the venue (from the hotel or from airports / train stations)?
-- Are there any prefferred cab firms?
-
+- What is the easiest route to the venue?
+- Are there any preferred cab firms?
 ---
 
 Please also see the Diversity charter considerations for event organisers to create better diversity at conferences http://diversitycharter.org/considerations-for-event-organisers/ 
