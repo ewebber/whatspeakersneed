@@ -16,9 +16,10 @@ This is an early draft, GitHub allows for collaboration and contruibution so ple
 
 ## Preparing for the talks
 
-### What information can you tell speakers about the conference USP?
+### What information can you tell speakers about the conference?
 
-- What is unique about this conference? What's vision? What sets it apart from other existing conferences? 
+- What is unique about this conference? What's vision? 
+- What sets it apart from other existing conferences? 
 
 ### What information can you tell people about the audience?
 
@@ -77,7 +78,12 @@ If so:
  - Will there be a timer on the stage?
  - Will there be someone holding up signs with 10, 5, 3, 2, 1 minutes to go?
  - Will there be lights indicating time to get off the stage?
- - Will there be no timing support and it's up to the speaker to keep an eye on the time?
+ - Is it up to the speaker to keep an eye on the time?
+
+### Will the organisers be collecting feedback?
+
+- How will feedback be collected?
+- How will it be shared with speakers?
 
 ## At the venue
 
@@ -88,7 +94,7 @@ If so:
 
 ### What food will be provided?
 
-- Does food meet dietry requirements?
+- Does food meet dietry requirements and have you asked speaker for their requirements?
 - Where can speakers get (good) coffee nearby?
 
 ### Is there wifi? 
@@ -98,18 +104,19 @@ If so:
 ###  Are there any quiet spaces?
 
 - Is there a space to work in / prepare for talks? (if yes, where is it?)
-- Is there a prayer room?
+- Is there a prayer room or other space where people can be alone?
 - What else is available?
 
 ## Accommodation info
 
 ### Where is the hotel and venue?
 
-- How can they get there from airports / train stations?
+- How can they get to the hotel from airports / train stations?
 - Are you providing a car to pick people up?
 - What is the easiest route to the venue?
-- Are there any prefferred cab firms?
-
+- Are there any preferred cab firms?
 ---
 
-Please also see the Diversity charter considerations for event organisers http://diversitycharter.org/considerations-for-event-organisers/ 
+Please also see the Diversity charter considerations for event organisers to create better diversity at conferences http://diversitycharter.org/considerations-for-event-organisers/ 
+
+This list was initiated by [Emily Webber](https://twitter.com/ewebber)
