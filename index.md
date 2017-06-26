@@ -109,9 +109,9 @@ If so:
 - Is there a prayer room or other space where people can be alone?
 - What else is available?
 
-## Accommodation info
+## Accommodation and venue info
 
-### Where is the hotel and venue?
+### Where is the hotel and conference venue?
 
 - How can they get to the hotel from airports / train stations?
 - What is the easiest route to the venue?
@@ -127,4 +127,4 @@ If so:
 
 Please also see the Diversity charter considerations for event organisers to create better diversity at conferences http://diversitycharter.org/considerations-for-event-organisers/ 
 
-This list was initiated by [Emily Webber](https://twitter.com/ewebber)
+This list was initiated and moderated by [Emily Webber](https://twitter.com/ewebber)
