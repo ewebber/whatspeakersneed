@@ -7,14 +7,12 @@ This is an early draft, GitHub allows for collaboration and contruibution so ple
 
 ### What is the offer?
 
-- Do you cover expenses and how much?
+- Do you cover expenses, what for and how much? (consider hotel, travel (including taxi's / public transport, food)
 - Will you book travel and hotels?
 - Do you pay speakers?
 - Will there be a speakers dinner or socialising events? (speakers often come to events to network, so this is a good idea)
 - Will there be childcare?
 - What else are you offering speakers?
-- Who else will be speaking?
-- Who are the sponsors?
 
 ## Preparing for the talks
 
@@ -22,6 +20,8 @@ This is an early draft, GitHub allows for collaboration and contruibution so ple
 
 - What is unique about this conference? What's vision? 
 - What sets it apart from other existing conferences? 
+- Who else will be speaking?
+- Who are the sponsors?
 
 ### What information can you tell people about the audience?
 
@@ -114,15 +114,14 @@ If so:
 ### Where is the hotel and venue?
 
 - How can they get to the hotel from airports / train stations?
-- Are you providing a car to pick people up?
 - What is the easiest route to the venue?
 - Are there any preferred cab firms?
 
-### Will there be transfer from the airport to the hotel and back?
+### Will there be transfer from the airport / train station to the hotel and back?
 
-- Is someone from the organisers at the airport to welcome speakers?
-- Are taxis or public transport reimbursed or already organised or neither?
-- How long is the journey from the airport gonna be and what does it cost?
+- Are you providing a car to pick people up? 
+- Is someone from the organisers be at the airport to welcome speakers?
+- How long is the journey from the airport and what does it cost?
 
 ---
 
