@@ -33,6 +33,7 @@ This is an early draft, GitHub allows for collaboration and contruibution so ple
 *Many speakers prefer to use their own kit because it is set up in the way they like and many edit slides up to the last moment*
 
 - What projector connectors will the conference provide? (HDMI, VGA)
+- What is the aspect ratio and resolution of the projector?
 - What power cables will the conference provide?
 - Will a remote slide changer be provided?
 - Should video be embedded in the presentation or provided as a separate file?
