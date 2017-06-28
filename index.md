@@ -23,19 +23,19 @@ This is an early draft, GitHub allows for collaboration and contruibution so ple
 - Who else will be speaking?
 - Who are the sponsors?
 
-### What information can you tell people about the audience?
+### What information can you tell speakers about the audience?
 
 - What sectors do they work in?
 - What is their experience in the topics that the speaker is covering?
 
-### Can speakers use their own laptop?
+### What details can you tell speakers about projecting slides?
 
-*Many speakers prefer to use their own kit because it is set up in the way they like and many edit slides up to the last moment*
-
+- Can speakers use their own laptop? (Many speakers prefer to use their own kit because it is set up in the way they like and many edit slides up to the last moment)
 - What projector connectors will the conference provide? (HDMI, VGA)
-- What is the aspect ratio and resolution of the projector?
+- What is the aspect ratio and resolution of the projector? (give plenty of notice before speakers make their slides) 
 - What power cables will the conference provide?
 - Will a remote slide changer be provided?
+- Will there be an additional screen that only speakers can see and what will they see on it? (some speakers want to see the next slide and their notes)
 - Should video be embedded in the presentation or provided as a separate file?
 
 ### Will speakers need to use a microphone?
@@ -47,17 +47,12 @@ If so:
 - is it a lapel mic and battery pack? They will need a belt or a pocket for the pack
 - something else?
 
-### Are you filming the talks
+### Are you filming the talks?
 
 If so:
 - have you sent (and have they signed) a release form?
 - does it have details of what will be done with the footage?
 - can speakers walk around the stage, will the camera follow the speaker, or is it fixed at the podium?
-
-### What format can the slides be in?
-
-- Will slide size or dimensions be restricted by the projectors? (please give plenty of notice before speakers make their slides) 
-- Will there be an additional screen that only speakers can see and what will they see on it? (some speakers want to see the next slide and their notes)
 
 ### Is there the option to have sound?
 
