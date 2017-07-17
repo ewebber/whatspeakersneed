@@ -95,7 +95,7 @@ If so:
 - Does food meet dietry requirements and have you asked speaker for their requirements?
 - Where can speakers get (good) coffee nearby?
 
-### Is there internet?
+### Is there an internet connection available?
 
 - Is there wifi and what is the password?
 - Is there a speakers' only wifi and what is the password?
