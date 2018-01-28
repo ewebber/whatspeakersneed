@@ -7,8 +7,8 @@ This is an early draft, GitHub allows for collaboration and contruibution so ple
 
 ### What is the offer?
 
-- Do you cover expenses, what for and how much? (consider hotel, travel (including taxi's / public transport, food)
-- Will you book travel and hotels?
+- Do you cover expenses, what for and how much? (consider hotel, travel including taxi's / public transport, food)
+- Will you book the travel and hotels or do they need to do it?
 - Do you pay speakers?
 - Will there be a speakers dinner or socialising events? (speakers often come to events to network, so this is a good idea)
 - Will there be childcare?
@@ -18,7 +18,7 @@ This is an early draft, GitHub allows for collaboration and contruibution so ple
 
 ### What information can you tell speakers about the conference?
 
-- What is unique about this conference? What's vision? 
+- What is unique about this conference? What's it's vision? 
 - What sets it apart from other existing conferences? 
 - Who else will be speaking?
 - Who are the sponsors?
@@ -33,19 +33,19 @@ This is an early draft, GitHub allows for collaboration and contruibution so ple
 - Can speakers use their own laptop? (Many speakers prefer to use their own kit because it is set up in the way they like and many edit slides up to the last moment)
 - What projector connectors will the conference provide? (HDMI, VGA)
 - What is the aspect ratio and resolution of the projector? (give plenty of notice before speakers make their slides) 
-- What power cables will the conference provide?
+- What power cables will the conference provide? (will their be adaptors for international plugs?)
 - Will a remote slide changer be provided?
 - Will there be an additional screen that only speakers can see and what will they see on it? (some speakers want to see the next slide and their notes)
 - Should video be embedded in the presentation or provided as a separate file?
 
 ### Will speakers need to use a microphone?
 
-*this might affect what people can wear*
+*this might affect what people can wear (not all dresses have belts)*
 
 If so:
 - is it handheld? They may need some guidance on how to hold it
-- is it a lapel mic and battery pack? They will need a belt or a pocket for the pack
-- something else?
+- is it a lapel mic and battery pack? They will need a belt, waist band or a pocket for the pack
+- Anything else that they need to know?
 
 ### Are you filming the talks?
 
