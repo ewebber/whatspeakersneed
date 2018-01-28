@@ -40,7 +40,7 @@ This is an early draft, GitHub allows for collaboration and contruibution so ple
 
 ### Will speakers need to use a microphone?
 
-*this might affect what people can wear (not all dresses have belts)*
+*this might affect what people can wear (e.g. not all dresses have belts)*
 
 If so:
 - is it handheld? They may need some guidance on how to hold it
@@ -71,7 +71,7 @@ If so:
 - How big is the room / How big might the audience be?
 - What time are the speakers on? (a post lunch talk might need a bit of extra interaction)
 
-### How will timekeeping be done?
+### How will time keeping be done?
 
  - Will there be a timer on the stage?
  - Will there be someone holding up signs with 10, 5, 3, 2, 1 minutes to go?
