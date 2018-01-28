@@ -1,7 +1,8 @@
 # What speakers need from conference organisers
 
-Collected from experienced speakers to help conference organisers make things easier for speakers (many who don't get paid for their contribution to conferences) which makes the conferences run more smoothly. This list is intended for speakers to give to organisers or for organisers to use as a guide. 
-This is an early draft, GitHub allows for collaboration and contruibution so please feel free to submit edits or additions into the document.
+Collected from experienced speakers, these questions are intended to help conference organisers make things easier for speakers (many who don't get paid for their contribution to conferences) which in turn makes the conferences run more smoothly. This list is intended for speakers to give to organisers so they can make decisions and be prepared or for organisers to use as a guide for speakers. 
+
+GitHub allows for collaboration and contruibution so please feel free to submit edits or additions into the document.
 
 ## Before applying
 
