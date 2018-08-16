@@ -23,6 +23,8 @@ GitHub allows for collaboration and contruibution so please feel free to submit 
 - What sets it apart from other existing conferences? 
 - Who else will be speaking?
 - Who are the sponsors?
+- What is your code of conduct?
+- Do you have a diversity and inclusion policy?
 
 ### What information can you tell speakers about the audience?
 
